@@ -25,7 +25,7 @@ export * from './firebaseui.helper';
         FirebaseUIComponent,
     ],
     providers: [
-        FirebaseUIService
+        /* FirebaseUIService */
     ]
 })
 export class FirebaseUIModule {
